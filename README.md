@@ -1,6 +1,6 @@
 # Practice
 
-A weekly practice tracker. Check off each practice for today, and fill in earlier days from the week dots. Each practice has a weekly target, and the Calendar tab shows your history and how many weeks in a row you've hit each target.
+A weekly practice tracker. Tap a practice to check it off for today, and fill in earlier days by tapping its week bar. Each practice can have a weekly target (or none), and the Calendar tab shows your month and how many days you did each practice.
 
 It runs as a web app you add to your iPhone home screen, and it works offline. Your data stays on the device, and it can sync between devices through your own Google Drive (see [`sync/README.md`](sync/README.md)).
 

@@ -1,5 +1,5 @@
 /* Practice — offline shell. Bump CACHE when shipping changes. */
-const CACHE = 'practice-v1.4.0';
+const CACHE = 'practice-v1.5.0';
 const FILES = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest',
   'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png'];
 // cache: 'reload' skips the HTTP cache so a fresh deploy can't be stored stale.
